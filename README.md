@@ -1,10 +1,6 @@
 
 
-# Hello, I'm Rolands: Frontend Developer with a Love for Sports and Creative Pursuits!
-
-<p align="left">
-  <img src="https://avatars.githubusercontent.com/u/67788097?v=4.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
-</p>
+# Hello, I'm Rolands ✌️: Frontend Developer with a Love for Sports and Creative Pursuits!
 
 ## Introduction
 
@@ -24,15 +20,16 @@ During my academic years, I honed my technical skills while collaborating on var
 
 In addition to my frontend development skills, I have a deep love for various forms of art and creativity. When I'm not immersed in coding, I enjoy sketching new ideas on Figma, editing videos using Adobe Premiere, or crafting captivating animations with Adobe After Effects. This creative side fuels my work as a developer, inspiring fresh and innovative solutions for every project I take on.
 
-## Sports and Bicycling Adventures
+## Sports and Bicycling Adventures 🚵‍♂️
+
 
 Beyond the digital realm, I find joy in staying active and exploring the great outdoors. One of my greatest passions is bicycling. Whether it's short, exhilarating rides to get the adrenaline pumping or long, scenic journeys to discover new landscapes, cycling allows me to clear my mind, stay fit, and appreciate the beauty of the world around me.
 
-## Exploring the Intersection of AI and Web Development
+## Exploring the Intersection of AI and Web Development 🤖
 
 With an insatiable curiosity for emerging technologies, I've developed a keen interest in the world of AI and its potential applications in web development. I believe that AI has the power to revolutionize user experiences, making them even more personalized, efficient, and enjoyable. As the field progresses, I'm eager to explore how AI can be integrated into frontend development to create smarter and more intuitive interfaces.
 
-## Let's Connect!
+## Let's Connect! 🤝
 
 I'm always excited to connect with fellow developers, creatives, and sports enthusiasts alike! Whether you want to discuss frontend development, potential collaboration opportunities, or share cycling adventures, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rolands-sosnars-4b2898195) or [Twitter](https://twitter.com/Nesankcionets).
 
